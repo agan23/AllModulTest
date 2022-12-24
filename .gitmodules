@@ -1,0 +1,3 @@
+[submodule "BaseModelTest/BaseModel"]
+	path = BaseModelTest/BaseModel
+	url = git@github.com:agan23/BaseModelTest.git
